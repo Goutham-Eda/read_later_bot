@@ -8,3 +8,4 @@
 6. I can be given the bot as a stranger, start it, send one link, and get the demo — with no help from the builder. Onboarding works unassisted. (Proves it's usable by a real tester, not just by you.)
 
 Parked (not now):
+- Custom domain (veriql.com / veriql.org) for the landing page: free registrar forwarding now, or Convex Pro custom domain later
