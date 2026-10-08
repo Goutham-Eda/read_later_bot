@@ -1,0 +1,1 @@
+- 2026-10-08 Milestone 1 landing page: live at https://impressive-warbler-613.convex.site; live files match the local build; Chrome check at 1366/390/360px shows "Bot coming soon" on tap with no sideways overflow; builder confirmed on own Android phone (Brave, likely Wi-Fi). Limits: no bot or Telegram link yet; no tab icon (favicon 404).

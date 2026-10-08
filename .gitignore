@@ -1,0 +1,18 @@
+
+.env.local
+
+# junction to .agents/skills - the committed copy lives there
+.claude/skills/
+
+node_modules/
+dist/
+.npm-cache/
+.impeccable-cache/
+
+# private: research, survey, tester names, credentials, Genesis records
+documents/
+IDEA_SCOPE.md
+PRODUCT.md
+SPEC.md
+.genesis/
+.env*
